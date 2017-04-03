@@ -1,7 +1,7 @@
 # hello-world
 
-Hello sorry if my english is not excellent but with a translator it is better.
-I go into a full professional reconvertion Having worked in commerce for 11 years my longing desire to work in the computers obsesses me.
-I decided to leave my company to continue my passion and my desires.
-I am looking for a training that will take me to my final goal of working in IT development. I am currently training myself as an autudidact to have some basics including html and css for the moment then I will soon pass on php.
-It was only natural that I went to your school which offers intensive training of 5 months and will bring me new skills.
+bonjour travaillant dans le commerce depuis 11 ans , j'ai décidé de me reconvertir.
+depuis toujours je souhaite travailler dans le développement informatique.
+j'ai pris la décision de partir de ma société pour vivre ma passion et mes désirs.
+je suis à la recherche d'une formation qui pourras m'apporter des bases solides en développement mais aussi de nouvelles compétences.
+c'est tout naturellement que je me suis diriger vers votre établissement car la formation que vous proposer sur 5 mois en intensif correspond à mes attentes et me permettrais enfin de poursuivre ma carrière professionnelle dans un domaine qui ne cesse d'évoluer mais aussi qui m'anime chaque jours. 
